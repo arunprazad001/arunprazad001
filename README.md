@@ -8,7 +8,18 @@
 
 Hi, I'm **Arun Prasad**, a passionate **JAVA BACK-END DEVELOPER**  from india, currently studying @ **Masai School**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love collabrating on intetresting and challenging projects. I have a keen interest in learing new languages.
 
-- 👨‍💻 Ex-NIU student.
+![](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
+
+- 🌱 Ex-NIU student.
+
+- 👨‍💻 Checkout my portfolio [My Portfolio](https://arunprazad001.github.io/#)
+
+
+- 💬 Ask me about ***java , spring boot , javascript***
+
+- 📫 How to reach me **arunprazad001@gmail.com**
+
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nSCwAsIcnBGwz-uIV3AMHhVpDW1YZm_x/view?usp=sharing)
 - ⚡ My interests include playing football and travelling.
 
 **Languages and Tools**  
@@ -45,14 +56,10 @@ Hi, I'm **Arun Prasad**, a passionate **JAVA BACK-END DEVELOPER**  from india, c
 
 
 
-**Lets Get Connected** 
-<br />
-<br />
-<a href="https://www.instagram.com/arun_prazad_/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/arunprasad001/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />**Lets Get Connected** 
+
+<a href="https://www.linkedin.com/in/arunprasad001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozakir178" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amalv.prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mozakir178" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arun_prazad_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immature_poet_zakir" height="30" width="40" /></a>
 
 
