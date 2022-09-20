@@ -6,7 +6,7 @@
 
 <br />
 
-Hi, I'm **Arun Prasad**, a passionate **JAVA BACK-END DEVELOPER**  from india, currently studying @ **Masai School**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love collabrating on intetresting and challenging projects. I have a keen interest in learing new languages.
+Hi, I'm **ARUN PRASAD**, a passionate **JAVA BACK-END DEVELOPER**  from india, currently studying @ **Masai School**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love collabrating on intetresting and challenging projects. I have a keen interest in learing new languages.
 
 ![](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
 
