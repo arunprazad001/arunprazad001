@@ -10,7 +10,7 @@ Hi, I'm **ARUN PRASAD**, a passionate **JAVA BACK-END DEVELOPER**  from india, c
 
 ![](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
 
-- 🌱 Ex-NIU student..
+- 🌱 Ex-NIU student.
 
 - 👨‍💻 Checkout my portfolio [My Portfolio](https://arunprazad001.github.io/#)
 
