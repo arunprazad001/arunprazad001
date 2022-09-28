@@ -22,6 +22,12 @@ Hi, I'm **ARUN PRASAD**, a passionate **JAVA BACK-END DEVELOPER**  from india, c
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nSCwAsIcnBGwz-uIV3AMHhVpDW1YZm_x/view?usp=sharing)
 - ⚡ My interests include playing football and travelling.
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />**Lets Get Connected** 
+
+<a href="https://www.linkedin.com/in/arunprasad001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozakir178" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amalv.prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mozakir178" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arun_prazad_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immature_poet_zakir" height="30" width="40" /></a>
+
 **Languages and Tools**  
 
 <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -56,10 +62,6 @@ Hi, I'm **ARUN PRASAD**, a passionate **JAVA BACK-END DEVELOPER**  from india, c
 
 
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />**Lets Get Connected** 
 
-<a href="https://www.linkedin.com/in/arunprasad001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozakir178" height="30" width="40" /></a>
-<a href="https://www.facebook.com/amalv.prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mozakir178" height="30" width="40" /></a>
-<a href="https://www.instagram.com/arun_prazad_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immature_poet_zakir" height="30" width="40" /></a>
 
 
