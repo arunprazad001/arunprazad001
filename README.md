@@ -26,9 +26,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />**Lets Get Connected** 
 
-<a href="https://www.linkedin.com/in/arunprasad001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozakir178" height="30" width="40" /></a>
-<a href="https://www.facebook.com/amalv.prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mozakir178" height="30" width="40" /></a>
-<a href="https://www.instagram.com/arun_prazad_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immature_poet_zakir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arunprazad001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunprazad001" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amalv.prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunprazad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arun_prazad_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunprazad001" height="30" width="40" /></a>
 
 **Languages and Tools**  
 
