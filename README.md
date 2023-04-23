@@ -32,6 +32,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 **Languages and Tools**  
 
+
 <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
@@ -46,8 +47,8 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 
 
-<br />
-<br />
+ [![My Skills](https://skillicons.dev/icons?i=java,spring)]()
+
 <br />
 
 
