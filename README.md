@@ -32,10 +32,10 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 **Languages and Tools**  
 
-
+ [![My Skills](https://skillicons.dev/icons?i=java,spring)]()
 <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
-<img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<!-- <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> -->
 
 <img align="left" alt="MySQL" width="26px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
@@ -47,7 +47,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 
 
- [![My Skills](https://skillicons.dev/icons?i=java,spring)]()
+
 
 <br />
 
