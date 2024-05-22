@@ -5,8 +5,12 @@
 
 
 <br />
-<h3 >A passionate backend developer having specialization in backend development dedicated in developing robust applications that interact with the Backend part of web applications..
-My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+<h3 >Aspiring Java Developer with a passion for crafting efficient and 
+						innovative software solutions and having insatiable curiosity for new concepts.
+						 With a solid foundation in Java programming and a keen eye for detail,
+						  I excel in translating complex problems into seamless, user-friendly applications.
+						   Constantly learning and evolving, I thrive on tackling challenges and turning ideas into reality.
+						    Let's create something extraordinary together.
 </h3>
 <!-- Hi, I'm **ARUN PRASAD**, a passionate **JAVA BACK-END DEVELOPER**  from india, currently studying @ **Masai School**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love collabrating on intetresting and challenging projects. I have a keen interest in learing new languages. -->
 
