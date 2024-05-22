@@ -43,7 +43,7 @@
 
 <img align="left" alt="MySQL" width="26px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="MySQL" width="26px" height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" height="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" style="padding-right:10px;" />
 
 <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp">
