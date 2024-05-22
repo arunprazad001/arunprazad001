@@ -21,7 +21,7 @@
 - 👨‍💻 Checkout my portfolio [My Portfolio](https://arunprazad001.github.io/#)
 
 
-- 💬 Ask me about ***java , spring boot , javascript***
+- 💬 Ask me about ***java , spring boot , MicroServices , Database Management***
 
 - 📫 How to reach me **arunprazad001@gmail.com**
 
