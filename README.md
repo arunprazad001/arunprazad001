@@ -7,7 +7,7 @@
 <br />
 <h3>
   Expereienced Java Developer passionate about crafting efficient and innovative 
-  software solutions,with an insatiable curiosity for learning new concepts.Equipped 
+  software solutions,with an insatiable curiosity for learning new concepts. Equipped 
   with a solid foundation in Java programming and a keen eye for detail,excels 
   in translating complex problems into seamless,user-friendly applications. 
   Constantly learning and evolving, thrives on tackling challenges and turning 
