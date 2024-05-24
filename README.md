@@ -7,11 +7,11 @@
 <br />
 <h3>
   Expereienced Java Developer passionate about crafting efficient and innovative 
-  software solutions,with an insatiable curiosity for learning new concepts. Equipped 
+  software solutions, with an insatiable curiosity for learning new concepts. Equipped 
   with a solid foundation in Java programming and a keen eye for detail,excels 
   in translating complex problems into seamless,user-friendly applications. 
   Constantly learning and evolving, thrives on tackling challenges and turning 
-  ideas into reality.Ready to create something extraordinary together.
+  ideas into reality. Ready to create something extraordinary together.
 </h3>
 <!-- Hi, I'm **ARUN PRASAD**, a passionate **JAVA BACK-END DEVELOPER**  from india, currently studying @ **Masai School**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love collabrating on intetresting and challenging projects. I have a keen interest in learing new languages. -->
 
