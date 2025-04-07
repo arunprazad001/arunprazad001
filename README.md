@@ -26,12 +26,12 @@
 
 - 📫 How to reach me **arunprazad001@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Z0tnzJjkVL1sVatt-KntlVD6BKHwiIC4/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1EOxyged8X2l3rEncW8KZtHOiZNox351Q/view?usp=sharing)
 - ⚡ My interests include playing football and travelling.
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />**Lets Get Connected** 
 
-<a href="https://www.linkedin.com/in/arunprazad001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunprazad001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arun-prasad-v-352953356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunprazad001" height="30" width="40" /></a>
 <a href="https://www.facebook.com/amalv.prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunprazad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arun_prazad_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunprazad001" height="30" width="40" /></a>
 
